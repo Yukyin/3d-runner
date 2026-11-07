@@ -2,6 +2,6 @@
 
 Dodge the deadlines, grab the money, keep going.
 
-<a href="https://yukyin.github.io/3d-runner/"><img src="play.svg" alt="Play" width="140"></a>
+[![Play](play.svg)](https://yukyin.github.io/3d-runner/)
 
 ![3D Runner](preview.png)
